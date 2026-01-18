@@ -110,7 +110,3 @@ Optimal hyperparameters: `n_estimators=200`, `max_depth=None`
 - **Coastal proximity** correlates with higher property values
 - **Ensemble methods** (Random Forest, Gradient Boosting) outperform linear models
 - Addressing multicollinearity via PCA improved model stability
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
